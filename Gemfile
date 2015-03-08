@@ -37,6 +37,9 @@ gem 'simple_form'
 #gem to manage users
 gem 'devise'
 
+#gem for following
+gem "acts_as_follower"
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
